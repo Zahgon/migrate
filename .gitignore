@@ -8,3 +8,6 @@ vendor/
 .vscode/
 .idea
 dist/
+
+.aider*
+logs/
